@@ -1,0 +1,2 @@
+Hello my name is shubham 
+i am learing revert operations in git 
